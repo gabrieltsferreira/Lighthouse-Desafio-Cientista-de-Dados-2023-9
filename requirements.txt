@@ -1,0 +1,7 @@
+Pacotes utilizados
+
+pandas (version: 2.0.2)
+numpy (version: 1.24.3)
+seaborn (version: 0.12.2)
+matplotlib (version: 3.7.1)
+scikit-learn (version: 1.3.0)
