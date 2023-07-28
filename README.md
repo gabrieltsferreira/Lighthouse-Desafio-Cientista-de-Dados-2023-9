@@ -2,4 +2,4 @@
 
 Projeto desenvolvido para o Processo Seletivo - Lighthouse Programa De Formação Em Dados
 
-Objetivo: analisar os dados apresentados, responder perguntas de negócios e criar um modelo preditivo.
+Objetivos: analisar os dados apresentados, responder perguntas de negócios e criar um modelo preditivo.
